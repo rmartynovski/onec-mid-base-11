@@ -6,6 +6,7 @@
     <value>Стандартные подсистемы</value>
   </synonym>
   <content>Catalog.Net_Должности</content>
+  <content>Catalog.Net_КонтактныеЛица</content>
   <subsystems>АнализЖурналаРегистрации</subsystems>
   <subsystems>БазоваяФункциональность</subsystems>
   <subsystems>ВариантыОтчетов</subsystems>
